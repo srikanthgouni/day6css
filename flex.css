@@ -1,0 +1,85 @@
+p{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.parent{
+    width: 1000px;
+    height: 800px;
+    background-color: blue;
+    
+}
+.child{
+    width: 250px;
+    height: 400px;
+    background-color: white;
+    margin: 20px;
+    border-radius: 10px;
+
+    
+}
+.div{
+    display: flex;
+    margin-left: 40px;
+    align-items: last baseline;
+
+}
+.emoji{
+    font-size: 35px;
+    text-align: center;
+}
+.header{
+    color: gold;
+font-size: 30px;
+}
+    
+    
+.rupee{
+    color:blue ;
+    font-size: 25px;
+    font-weight: bolder;
+    
+}
+.rupee>span{
+    font-size: 40px;
+    font-weight: bold;
+}
+.content{
+    color: black;
+    margin: 0 60px;
+    line-height: 30px;
+}
+a{
+   
+    font-weight: bold;
+    padding:30px 80px;
+    margin-top: 40px;
+    color: blue;
+}
+.box{
+    background-color: bisque;
+    height: 30px;
+    width: 200px;
+    margin-left: 20px;
+}
+.box>p{
+    color: blue;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 0%;
+}
+.middle{
+    height: 430px;
+}
+.middle a{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    margin: 80px;
+    
+    
+}
